@@ -112,7 +112,7 @@ h2{
     text-align: center;
 }
 .pricec{
-    padding: 3% 1%;
+    padding: 3% 5%;
 }
 .labeld{
     position:relative;
@@ -156,5 +156,8 @@ margin-left: 10px;
     }
     h2{
         font-size:150% ;
+    }
+    .pricec{
+        padding: 3% 0%;
     }
 } 
