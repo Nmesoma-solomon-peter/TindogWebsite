@@ -9,7 +9,7 @@ Tindog is a pratical websited i created from my web development tutorial With Dr
 as of the moment tindog is just not a real website but a sample i used to grow my skills,
 
 
-Technologies Used:
+<h1>Technologies Used</h1>:
 HTML5
 CSS3
 Bootsrap4
