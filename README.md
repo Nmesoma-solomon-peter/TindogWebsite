@@ -1,5 +1,5 @@
 <h1>Project name: Tindog</h1>
-<h1>Author: Nmesoma solomon Peter</h1>
+<h1>Author: Nmesoma Solomon Peter</h1>
 <h1>Date: 6th April 2022</h1>
 
 
