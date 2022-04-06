@@ -5,6 +5,7 @@
 
 
 Tindog is a pratical websited i created from my web development tutorial With Dr Angela Yu.
+it is responsible on all devices (larger screens, laptop,tablet and mobile).
 
 as of the moment tindog is just not a real website but a sample i used to grow my skills,
 
